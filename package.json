@@ -3,7 +3,7 @@
     "allure:generate": "npx allure generate ./allure-results --clean",
     "allure:open": "npx allure open ./allure-report",
     "allure:serve": "npx allure serve",
-    "npx playwright": "test specs/*.spec.mjs",
+    "test": "npx playwright test specs/*.spec.* || :",
     "posttest": "npm run allure:generate"
   },
   "dependencies": {
