@@ -2,7 +2,7 @@
   "scripts": {
     "allure:generate": "npx allure generate ./allure-results --clean",
     "allure:open": "npx allure open ./allure-report",
-    "test": "npx playwright test specs/*.spec.mjs --reporter=line,experimental-allure-playwright",
+    "test": "npx playwright test specs/*.spec.mjs",
     "posttest": "npm run allure:generate"
   },
   "dependencies": {
