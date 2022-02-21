@@ -6,7 +6,7 @@ test.describe('Vikunja Authorization', () => {
         await page.goto('https://try.vikunja.io/');
     });
 
-    test('demo user can login', async ({ page }) => {
+    test('demo user can login into the system', async ({ page }) => {
         await page.click('#username')
         await page.type('#username', 'demo')
         await page.click('#password')
