@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Feb 21 21:33:46 GMT 2022","Mon Feb 21 21:33:49 GMT 2022","2944","","specs/auth.spec.ts","Vikunja Authorization","","","demo user can login into the system",""
