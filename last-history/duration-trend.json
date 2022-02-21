@@ -1,17 +1,3 @@
 [ {
-  "buildOrder" : 3,
-  "reportUrl" : "https://mnmlsniper.github.io/demoFastUi/3/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 2434
-  }
-}, {
-  "buildOrder" : 2,
-  "reportUrl" : "https://mnmlsniper.github.io/demoFastUi/2/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 2615
-  }
-}, {
   "data" : { }
 } ]
