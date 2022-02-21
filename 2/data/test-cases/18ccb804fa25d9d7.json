@@ -1,0 +1,44 @@
+{
+  "uid" : "18ccb804fa25d9d7",
+  "name" : "demo user can login",
+  "fullName" : "demo user can login",
+  "historyId" : " specs/auth.spec.mjs Vikunja Authorization demo user can login",
+  "time" : {
+    "start" : 1645474058804,
+    "stop" : 1645474061419,
+    "duration" : 2615
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "suite",
+    "value" : "specs/auth.spec.mjs"
+  }, {
+    "name" : "subSuite",
+    "value" : "Vikunja Authorization"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18ccb804fa25d9d7.json",
+  "parameterValues" : [ ]
+}

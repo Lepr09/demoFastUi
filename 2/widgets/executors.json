@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://mnmlsniper.github.io/demoFastUi",
+  "buildOrder" : 2,
+  "buildName" : "GitHub Actions Run #1878118451",
+  "buildUrl" : "https://github.com/mnmlsniper/demoFastUi/actions/runs/1878118451",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://mnmlsniper.github.io/demoFastUi/2/"
+} ]

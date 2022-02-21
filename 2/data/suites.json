@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "specs/auth.spec.mjs",
+    "children" : [ {
+      "name" : "Vikunja Authorization",
+      "children" : [ {
+        "name" : "demo user can login",
+        "uid" : "18ccb804fa25d9d7",
+        "parentUid" : "4093c3fb9f26e4b2fa4b626d9b5414d8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1645474058804,
+          "stop" : 1645474061419,
+          "duration" : 2615
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4093c3fb9f26e4b2fa4b626d9b5414d8"
+    } ],
+    "uid" : "51b1b233c8f163ad24a010de16bf9cdf"
+  } ],
+  "name" : "suites"
+}
