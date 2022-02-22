@@ -6,13 +6,13 @@
       "name" : "Vikunja Authorization",
       "children" : [ {
         "name" : "demo user can login into the system",
-        "uid" : "3e67d1bc610a1f62",
+        "uid" : "7746fcc0643dbf67",
         "parentUid" : "d1b1833c53e91c45d99b376de2571698",
         "status" : "passed",
         "time" : {
-          "start" : 1645479226347,
-          "stop" : 1645479229291,
-          "duration" : 2944
+          "start" : 1645551918126,
+          "stop" : 1645551922838,
+          "duration" : 4712
         },
         "flaky" : false,
         "newFailed" : false,
